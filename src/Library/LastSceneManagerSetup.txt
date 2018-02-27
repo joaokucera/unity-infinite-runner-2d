@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/InfiniteRunner2D/Scenes/Menu.unity
+  isLoaded: 1
+  isActive: 1
