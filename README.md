@@ -8,6 +8,12 @@ It's a repository for a prototype made in a day. Feel free to download, there is
 
 Take a look on [WebGL live demo](https://rawgit.com/joaokucera/unity-infinite-runner-2d/master/build/webgl/index.html).
 
+##### Screenshots
+
+<img src="https://i.imgur.com/t9gB6Gn.png" />
+<img src="https://i.imgur.com/tMbRq0J.png" />
+<img src="https://i.imgur.com/8UusB5F.png" />
+
 ##### How to improve it?
 
 Create a fork of [unity-infinite-runner-2d](https://github.com/joaokucera/unity-infinite-runner-2d/fork). 
